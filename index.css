@@ -488,6 +488,7 @@ header .navbar{
     }
     .about-section .about-content{
         flex-direction: column-reverse;
+        padding-top: 50px;
     }
     .about-section{
         padding: 40px;
